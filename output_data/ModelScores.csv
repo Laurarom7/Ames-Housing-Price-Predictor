@@ -1,0 +1,5 @@
+Linear Regression Year Built Only,76747.2332,0.33
+Linear Regression Year Built and Overall Quality,54957.96002,0.65
+Ridge Numeric Features,41591.42524,0.81
+Ridge Top 15 Numeric Features ,42313.79367,0.79
+Ridge All Categorical Columns and Numeric Columns,38111.75614,0.85
